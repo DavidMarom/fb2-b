@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-05-26T21:11:13+00:00",
+    "loop_count": 2,
+    "calls_made_this_hour": 1,
+    "max_calls_per_hour": 100,
+    "tokens_used_this_hour": 5057,
+    "max_tokens_per_hour": 0,
+    "last_action": "permission_denied",
+    "status": "halted",
+    "exit_reason": "permission_denied",
+    "next_reset": "01:11:13"
+}
